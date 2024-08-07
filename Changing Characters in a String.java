@@ -8,5 +8,6 @@ class Codechef
         wordArray[1] = 'x';
         word = new String(wordArray);
         System.out.println(word);
-	}
+
+}
 }
