@@ -14,7 +14,6 @@ class Codechef
         	
         	
         	int y = 2 * x * 5;
-        	
         
         	System.out.println(y);
 		}
