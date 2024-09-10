@@ -1,6 +1,5 @@
 // How to check if A and C are both odd or even?
 import java.util.Scanner;
-
 class Codechef
 {
 	public static void main (String[] args)
